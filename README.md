@@ -1,6 +1,5 @@
 # An-Online-Exploratory-Maximum-Likelihood-Estimation-Approach-to-Adaptive-Kalman-Filtering
-This repository provides four **online exploratory maximum likelihood-based adaptive Kalman filters**, which feature **fast convergence** and **high estimation accuracy**.  
-Each algorithm has its own characteristics, making it suitable for different application scenarios (corresponding to the paper “An Online Exploratory Maximum Likelihood Estimation Approach to Adaptive Kalman Filtering”).
+This repository provides four **online exploratory maximum likelihood-based adaptive Kalman filters**, which feature **fast convergence** and **high estimation accuracy**.  Each algorithm has its own characteristics, making it suitable for different application scenarios (corresponding to the paper “An Online Exploratory Maximum Likelihood Estimation Approach to Adaptive Kalman Filtering”).
 
 ## Citation
 
