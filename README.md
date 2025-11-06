@@ -6,10 +6,13 @@ This repository provides four **online exploratory maximum likelihood-based adap
 If you find this repository useful, please consider giving it a star ⭐ and citing our paper as follows:
 
 ```bibtex
-@article{cheng2024online,
+@article{cheng2025online,
 	title={An online exploratory maximum likelihood estimation approach to adaptive {Kalman} filtering},
 	author={Cheng, Jiajun and Chen, Haonan and Xue, Zhirui and Huang, Yulong and Zhang, Yonggang},
 	journal={IEEE/CAA Journal of Automatica Sinica},
-	year={2024},
+	  year={2025},
+    volume={12},
+    number={1},
+    pages={228-254},
 	publisher={IEEE}
 }
